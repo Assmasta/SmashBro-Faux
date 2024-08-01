@@ -1,0 +1,11 @@
+cpu
+smashbot
+*.o
+*.d
+*~
+Logs/*
+*.pyc
+*.model
+
+# Ignore local libmelee
+melee
